@@ -1196,7 +1196,7 @@ info_bar(){
     echo -e "# ${GREEN}GitLab${PLAIN}: https://gitlab.com/misaka-blog                    #"
     echo -e "# ${GREEN}Bitbucket${PLAIN}: https://bitbucket.org/misakano7545             #"
     echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/misakablog_group                       #"
-    echo -e "# ${GREEN}TG频道${PLAIN}: https://t.me/misakablog_channnel                  #"
+    echo -e "# ${GREEN}TG频道${PLAIN}: https://t.me/misakablog_channel                   #"
     echo "#############################################################"
 }
 
