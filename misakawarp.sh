@@ -1192,11 +1192,11 @@ info_bar(){
     echo -e "# ${GREEN}作者${PLAIN}: Misaka No                                           #"
     echo -e "# ${GREEN}博客${PLAIN}: https://owo.misaka.rest                             #"
     echo -e "# ${GREEN}论坛${PLAIN}: https://vpsgo.co                                    #"
-    echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/misakablog_group                       #"
-    echo -e "# ${GREEN}TG频道${PLAIN}: https://t.me/misakablog_channnel                   #"
     echo -e "# ${GREEN}GitHub${PLAIN}: https://github.com/Misaka-blog                    #"
     echo -e "# ${GREEN}GitLab${PLAIN}: https://gitlab.com/misaka-blog                    #"
     echo -e "# ${GREEN}Bitbucket${PLAIN}: https://bitbucket.org/misakano7545             #"
+    echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/misakablog_group                       #"
+    echo -e "# ${GREEN}TG频道${PLAIN}: https://t.me/misakablog_channnel                  #"
     echo "#############################################################"
 }
 
